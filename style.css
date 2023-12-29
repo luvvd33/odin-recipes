@@ -1,0 +1,17 @@
+
+h1 {
+    color: black;
+    font-weight: bold;
+    font-family: Lucida Console, "Courier New", monospace;
+    background-color: bisque;
+}
+
+h2 {
+    color: black;
+    background-color: bisque;
+}
+
+h3 {
+    color: black;
+    background-color: blanchedalmond;
+}
